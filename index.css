@@ -1,0 +1,75 @@
+.background {
+  background-image: url(Images/header.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.center {
+  text-align: center;
+}
+
+.overlay {
+  margin-bottom: 4%;
+  padding: 2%;
+  display: inline-block;
+  background-color: #00000091;
+  border-radius: 25px;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.panel1 {
+  margin: 1%;
+  margin: auto;
+  padding: 1%;
+  width: fit-content;
+  height: fit-content;
+  background-color: #00000091;
+  box-shadow: inset 20px 20px 40px 1px rgba(0, 0, 0, 0.357),
+    20px 20px 40px 1px rgba(0, 0, 0, 0.357);
+  border-radius: 25px;
+  color: #ffffff;
+}
+
+#numberarea {
+  text-align: center;
+  margin: 1%;
+  margin-bottom: -0.2%;
+  padding: 1%;
+  width: fit-content;
+  height: fit-content;
+  font-size: 16px;
+}
+
+#button {
+  margin: 1%;
+  padding: 0.5%;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 25px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.panel2 {
+  text-align: center;
+  margin-bottom: 2.5%;
+  margin: 1%;
+  margin: auto;
+  padding: 0.5%;
+  width: fit-content;
+  height: fit-content;
+  background-color: #00000091;
+  box-shadow: auto inset 20px 20px 40px 1px rgba(0, 0, 0, 0.357),
+    20px 20px 40px 1px rgba(0, 0, 0, 0.357);
+  border-radius: 15px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+#copyArea {
+  margin-top: 1%;
+  padding: 0.5%;
+  width: fit-content;
+  height: fit-content;
+  font-size: 20px;
+}
